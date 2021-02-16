@@ -29,6 +29,7 @@ installer -dumplog -pkg $tempfile -target /Applications
 if [ "$?" = "0" ]; then
    echo "$(date) | $appname Installed"
    echo "$(date) | Cleaning Up"
+   rm -rf $tempfile
    exit 0
 else
   # Something went wrong here, either the download failed or the install Failed
