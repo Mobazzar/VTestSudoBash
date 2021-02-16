@@ -5,7 +5,7 @@
 tempfile="/tmp/veeam.pkg"
 weburl="https://testbmyqa-my.sharepoint.com/:u:/g/personal/admin_testbmyqa_onmicrosoft_com/Efu-Pff22DhPtj5L0Ih3yXUB6FHc8qCq5TqfUc67GoRqNQ?e=fJoT9w&download=1"
 appname="Veeam"
-log="/var/log/installVeeam.log"
+log="/Users/tawammar/Desktop/installVeeam.log"
 
 # start logging
 
