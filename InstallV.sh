@@ -3,7 +3,7 @@
 # Define variables
 
 tempfile="/tmp/veeam.pkg"
-weburl="https://testbmyqa-my.sharepoint.com/:u:/g/personal/admin_testbmyqa_onmicrosoft_com/Efu-Pff22DhPtj5L0Ih3yXUB6FHc8qCq5TqfUc67GoRqNQ?e=fJoT9w&download=1"
+weburl="https://drive.google.com/uc?export=download&id=1myqL7ZvRp5UyQCYV1nVO0SR7HL_rkHiJ"
 appname="Veeam"
 log="/Users/tawammar/Desktop/installVeeam.log"
 
