@@ -3,7 +3,7 @@
 # Define variables
 
 tempfile="/tmp/veeam.pkg"
-weburl=https://drive.google.com/uc?export=download&id=1myqL7ZvRp5UyQCYV1nVO0SR7HL_rkHiJ
+weburl="https://drive.google.com/uc?export=download&id=1myqL7ZvRp5UyQCYV1nVO0SR7HL_rkHiJ"
 appname="Veeam"
 log="/Users/tawammar/Desktop/installVeeam.log"
 
